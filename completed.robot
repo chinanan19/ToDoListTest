@@ -37,7 +37,7 @@ TC-TDO-01-05-01
 
 TC-TDO-01-05-02
     [Documentation]     Test delete task when have data in completed
-    [Tags]  Doing
+    [Tags]  Done
     Add Item
     Save Item
     Select Tab To Do Task
